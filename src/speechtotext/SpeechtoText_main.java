@@ -26,3 +26,4 @@ public class SpeechtoText_main {
 
 			}
 	}
+ 
